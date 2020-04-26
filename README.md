@@ -1,0 +1,2 @@
+# disostore
+object storage
